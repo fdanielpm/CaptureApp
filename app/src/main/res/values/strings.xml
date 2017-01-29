@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CaptureApp</string>
+    <string name="capture_nombre">Nombre: </string>
+    <string name="capture_fecha_nacimiento">Fecha Nacimiento: </string>
+    <string name="capture_telefono">Teléfono: </string>
+    <string name="capture_email">Correo: </string>
+    <string name="capture_descripcion">Descripcion Contacto: </string>
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_editar">Editar Datos</string>
+
+    <string name="pnombre">nombre</string>
+    <string name="pfechaNacimiento">fechaNacimiento</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+</resources>
